@@ -11,5 +11,7 @@ int main() {
 	cin >> b;
 	cout << endl;
 	cout << "Hello, " << a<< " Dibilovich";
+	cout << endl;
+	cout << " YOU FUCKING LOOSER AAAAAAAAAAAAA!!!";
 	return 0;
 }
